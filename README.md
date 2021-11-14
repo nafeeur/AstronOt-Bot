@@ -1,4 +1,5 @@
 # Astronut-Bot
+This project utilizes several of NASA's API's to create a discord bot using Python. The bot responds to a number of commands to return space-related facts and pictures.
 
 ## What it does
 The discord bot recognizes a total of 7 commands that it will respond to in the form of a discord message. The commands are also in the form of discord messages:
