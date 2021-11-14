@@ -4,7 +4,7 @@ import requests
 import random
 import wolframalpha
 from urllib.request import urlretrieve
-from random import randint 
+from random import randint
 
 
 app_id = os.environ['wolframa']
