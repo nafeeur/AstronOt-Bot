@@ -1,4 +1,4 @@
-# Astronut-Bot
+# Astrn0t-Bot
 This project utilizes several of NASA's API's to create a discord bot using Python. The bot responds to a number of commands to return space-related facts and pictures.
 
 <img src="https://user-images.githubusercontent.com/67729867/141670244-e4b203e7-137f-4554-8fb8-268cc7f68415.jpg" width="200" height="200" />
