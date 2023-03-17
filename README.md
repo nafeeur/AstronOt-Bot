@@ -21,11 +21,11 @@ The bot can respond to the following commands:
 
 AstrnOt-Bot uses the following NASA APIs:
 
-    Astronomy Picture of the Day (APOD) API: to retrieve NASA's space picture of the day
-    Earth Imagery API: to retrieve satellite images of specific longitude and latitude coordinates
-    Mars Rover Photos API: to retrieve random pictures of the Martian landscape taken by the Mars rovers
-    Near Earth Object Web Service API: to retrieve information on the closest asteroid passing by Earth within a given time range
-    Image and Video Library API: to retrieve random pictures related to the query from NASA's image database
+Astronomy Picture of the Day (APOD) API: to retrieve NASA's space picture of the day 
+Earth Imagery API: to retrieve satellite images of specific longitude and latitude coordinates
+Mars Rover Photos API: to retrieve random pictures of the Martian landscape taken by the Mars rovers
+Near Earth Object Web Service API: to retrieve information on the closest asteroid passing by Earth within a given time range
+Image and Video Library API: to retrieve random pictures related to the query from NASA's image database
 
 ## How to Use
 
