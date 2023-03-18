@@ -30,6 +30,7 @@ Image and Video Library API: to retrieve random pictures related to the query fr
 ## How to Use
 
 To use the bot, simply enter one of the recognized commands in a discord message. The bot will then respond with the appropriate information or image.
-Future Improvements
+
+## Future Improvements
 
 In the future, the bot could be improved by adding more space-related commands and features, such as information on specific planets or space missions. Additionally, the bot could be made more interactive by allowing users to ask follow-up questions or provide feedback on the information provided.
